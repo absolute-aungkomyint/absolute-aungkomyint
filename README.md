@@ -26,13 +26,9 @@ Just a noob on GitHub. But I am trying my status to be strong... 💪🏻💪�
 
 #### 🛠️ What am I working on? 
 
-|** Sample Column 1 ** | ** Sample Column 2 ** |
-| :---: | :---: |
-| Content 1 | Content 2 |
 
-
-| --- | --- |
 | Category    |			|
+| :---: | :---:|
 | Maintaining |			|
 | Building    |			|
 | Writing     |			|
