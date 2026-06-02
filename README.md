@@ -21,6 +21,7 @@ Just a noob on GitHub. But I am trying my status to be strong... 💪🏻💪�
 
 | **Python** | **Other** (PowerBI, IBMCognos, Spreadsheet, etc.) |
 | --- | --- |
+|     |     |
 
 
 #### 🛠️ What am I working on? 
