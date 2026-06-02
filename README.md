@@ -24,24 +24,24 @@ Just a noob on GitHub. But I am trying my status to be strong... 💪🏻💪�
 
 
 #### 🛠️ What am I working on?
-| Category |			|
+| Category    |			|
 
-|  |			|
+| Maintaining |			|
 
-|  |			|
+| Building    |			|
 
-|  |			|
+| Writing     |			|
 
-|  |			|
+| Yapping     |			|
 
-|  |			|
+| Inspiring   |			|
 
-|  |			|
+
 			
 			
-			Maintaining
-			Building
-			Writing
-			Yapping
-			Inspiring
-			Livestreaming
+			
+			
+			
+			
+			
+			
