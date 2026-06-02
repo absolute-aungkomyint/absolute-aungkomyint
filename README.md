@@ -27,7 +27,7 @@ Just a noob on GitHub. But I am trying my status to be strong... 💪🏻💪�
 #### 🛠️ What am I working on? 
 
 
-| Category    |			|
+| Category    |	&nbsp; &nbsp; &nbsp;	|
 | :---: | :---:|
 | Maintaining |			|
 | Building    |			|
