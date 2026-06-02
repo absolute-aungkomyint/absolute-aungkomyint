@@ -29,7 +29,7 @@ Just a noob on GitHub. But I am trying my status to be strong... 💪🏻💪�
 
 | Category    |	 |
 | :---: | :---:|
-| Normal | <th width="300px"></th> |
+| Normal | <th width="500px"></th> |
 | Maintaining |			|
 | Building    |			|
 | Writing     |			|
